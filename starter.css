@@ -1,0 +1,58 @@
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.navbar-brand
+{
+	font-size: 2rem;
+	color: black;
+/* background:grey;*/
+
+}
+.navbar-brand:hover{
+	color:black;
+}
+.nav-link{
+	margin-left:10px;
+	margin-right:10px;
+	color:black;
+	font-family:'rubik' sans-serif;
+	text-transform:uppercase;
+}
+.nav-link:hover{
+	color: black;
+}
+.btn0{
+	/*height: 40px;*/
+	/*width: 40px;*/
+	overline:none;
+	border:none;
+	background:rgb(248, 26, 92);
+	color: white;
+	font-weight: 700;
+	border-radius: 100px;
+	/*background: grey;*/
+}
+.main h1{
+	font-size: 4rem;
+	font-weight: 200;
+}
+.btn1{
+	height: 45px;
+	width: 35%;
+	border: none;
+	outline: none;
+	background: rgb(248, 26, 92);
+	color: white;
+	font-weight: 700;
+	border-radius: 60px;
+}
+.h3{
+	color:whitesmoke;
+	font-family:sans-serif;
+}
+.h2{
+	color:darkred;
+	font-family:sans-serif;
+}
